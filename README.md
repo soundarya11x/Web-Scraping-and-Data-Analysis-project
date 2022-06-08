@@ -3,7 +3,7 @@ Web-Scraping-and-Data-Analysis project-on-Economic-impact-of-COVID-19.
 
 ### Problem statement :
 - The impact of COVID-19  on India has been largely disruptive in terms of economic activity, since there was a 3 month lockdown in India. Almost all the sectors have been adversely affected as domestic demand and exports sharply plummeted with some notable exceptions where high growth was observed. 
-- An attempt is made to analyze the impact during pre and post crisis and possible solutions for some key market elements
+- An attempt is made to analyze the impact during pre and post crisis and possible solutions for some key market elements.
 
 ### Life Cycle of the Project:
 - Business Understanding (Domain knowledge)
